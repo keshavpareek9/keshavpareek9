@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keshavpareek9
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Coding and App development.
 - 🌱 I’m currently learning c language and python.
 - 📫 How to reach me 
 - linkedin:https://www.linkedin.com/in/keshav-pareek-368a5824b
